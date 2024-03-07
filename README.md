@@ -72,4 +72,4 @@ namespace EX03
 ![image](https://github.com/ShyamKumar-AI-DS/Exp03-Constructor/assets/93427182/9dc356a3-244d-43ba-bff5-71df2261050d)
 
 ## Result:
-Thus, a C# program is written to calculate the salary of an employee using a constructor is implemented and the output is verified.# Exp03-Constructor
+Thus, a C# program is written to calculate the salary of an employee using a constructor is implemented and the output is verified.
